@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\C# tasks\25042019 task\Class\obj\Debug\Class.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\C# tasks\25042019 task\Class\obj\Debug\Class.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# tasks\25042019 task\Class\bin\Debug\Class.exe.config
+C:\Users\Admin\Desktop\C# tasks\25042019 task\Class\bin\Debug\Class.exe
+C:\Users\Admin\Desktop\C# tasks\25042019 task\Class\bin\Debug\Class.pdb
+C:\Users\Admin\Desktop\C# tasks\25042019 task\Class\obj\Debug\Class.exe
+C:\Users\Admin\Desktop\C# tasks\25042019 task\Class\obj\Debug\Class.pdb
